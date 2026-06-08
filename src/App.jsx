@@ -1,15 +1,16 @@
 import s from './App.module.css'
 
-import image1 from '../public/imagem1.png'
-import image2 from '../public/imagem2.png'
-import image3 from '../public/imagem3.png'
+const image1 = "/imagem1.png"
+const image2 = "/imagem2.png"
+const image3 = "/imagem3.png"
 
-import icon_home from '../public/home.png'
-import icon_bag from '../public/shopping-bag.png'
-import icon_play from '../public/play.png'
-import icon_chat from '../public/chat.png'
-import icon_facebook from '../public/facebook.png'
-import icon_instagram from '../public/instagram.png'
+const icon_home = "/home.png"
+const icon_bag = "/shopping-bag.png"
+const icon_play = "/play.png"
+const icon_chat = "/chat.png"
+const icon_facebook = "/facebook.png"
+const icon_instagram = "/instagram.png"
+const icon_linkedin = "/linkedin.png"
 
 function App() {
 
