@@ -1,15 +1,15 @@
 import s from './App.module.css'
 
-import image1 from '/src/assets/imagem1.png'
-import image2 from '/src/assets/imagem2.png'
-import image3 from '/src/assets/imagem3.png'
+import image1 from '../public/imagem1.png'
+import image2 from '../public/imagem2.png'
+import image3 from '../public/imagem3.png'
 
-import icon_home from '/src/assets/home.png'
-import icon_bag from '/src/assets/shopping-bag.png'
-import icon_play from '/src/assets/play.png'
-import icon_chat from '/src/assets/chat.png'
-import icon_facebook from '/src/assets/facebook.png'
-import icon_instagram from '/src/assets/instagram.png'
+import icon_home from '../public/home.png'
+import icon_bag from '../public/shopping-bag.png'
+import icon_play from '../public/play.png'
+import icon_chat from '../public/chat.png'
+import icon_facebook from '../public/facebook.png'
+import icon_instagram from '../public/instagram.png'
 
 function App() {
 
